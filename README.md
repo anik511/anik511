@@ -16,7 +16,6 @@ I'm a passionate Software Engineer with a knack for building modern, scalable we
 
 - 🌱 Always exploring new web tech & best practices
 - 👨‍💻 Open to collaboration and exciting opportunities
-- 💬 Ask me about anything web development related!
 
 ---
 
